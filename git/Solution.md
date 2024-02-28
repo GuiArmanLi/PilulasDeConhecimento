@@ -10,7 +10,7 @@
             <li>Versionamento: permite acompanhar e modificar alterações, facilitando o desenvolvimento e a correção de erros.
             <li>Colaboração: facilita o trabalho em equipe, permitindo que vários desenvolvedores trabalhem no mesmo projeto simultaneamente.
             <li>Compartilhamento: permite compartilhar código e projetos com outras pessoas.
-            <li>Comunidade: possui uma grande comunidade de desenvolvedores que podem ajudar e colaborar em projetos.****
+            <li>Comunidade: possui uma grande comunidade de desenvolvedores que podem ajudar e colaborar em projetos.**** sssssssssssssss
         </ul>
     </div>
 </div>
