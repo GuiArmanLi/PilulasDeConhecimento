@@ -1,5 +1,5 @@
 <div>
-    <h2 style="text-align:center;">Comando Basicos</h2>
+    <h2 style="text-align:center;">Comandos Básicos</h2>
     <p>Para visualizar os comandos básicos e mais usados do Git, basta digitar <code>git</code> em seu git bash.</p>
     <p>Obs.: existem outros comandos do git, mas na maioria dos casos os comandos abaixo irao sanar suas necessidades.</p>
     <div>
@@ -20,22 +20,14 @@
             <li><code>log</code> - Mostrar histórico de commit
         <br>
             <h4>Adicionar, marcar e ajustar sua história de commits</h4>
-            <li><code><a href="#">branch</a></code> - Lista, cria, altera ou deleta branches
+            <li><code><a href="https://github.com/GuiArmanLi/PilulasDeConhecimento/blob/main/git/Branch.md">branch</a></code> - Lista, cria, altera ou deleta branches
             <li><code>commit</code> - Registrar alterações no repositório
             <li><code>merge</code> - Junta duas ou mais branches
             <li><code>rebase</code> - Junta duas ou mais branches organizando seus históricos para tratar conflitos
         <br>
-            <h4><a href="#">Colaboraçao</a></h4>
+            <h4><a href="https://github.com/GuiArmanLi/PilulasDeConhecimento/blob/main/git/Contribute.md">Colaboração</a></h4>
             <li><code>push</code> - Sincroniza seus repositório local com repositório remoto
             <li><code>pull</code> -  Baixa outro repositório remoto e integra com outro repositório local ou branch local
-        </ul>
-    </div>
-    <div>
-        <h3  style="text-align:center;">Como funciona o Git de forma visual</h3>
-        <img src="assets/img/GitProcess.PNG" alt="Processo do Git" style="width:100%"/>
-        <ul style="text-align:center; list-style: none;">
-            <li>Working Directory = Diretório/Pasta de Trabalho
-            <li>Staging Area/Index = Area de Prepato
         </ul>
     </div>
 </div>
