@@ -1,7 +1,7 @@
 <div>
 <h1 style="text-align:center;">O que é Git e Github</h1>
-    <h3 style="text-align:center; margin-bottom: -20px">Git</h3>
-    <div style="  display: flex; justify-content: center; align-items: center; margin: 25px;">
+    <h3 style="text-align:center;">Git</h3>
+    <div style="  display: flex; justify-content: center; align-items: center;">
         <div>
             <img src="assets\img\GitIcon.png" alt="Icone do Git"/>
         </div>
@@ -16,8 +16,8 @@
 </div>
 
 <div>
-    <h3 style="text-align:center; margin-bottom: -20px">Github</h3>
-    <div style="  display: flex; justify-content: center; align-items: center; margin: 25px;">
+    <h3 style="text-align:center;">Github</h3>
+    <div style="  display: flex; justify-content: center; align-items: center;">
         <div>
             <img src="assets/img/GithubIcon.png" alt="Icone do Github"/>
         </div>
