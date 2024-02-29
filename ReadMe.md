@@ -19,6 +19,21 @@
             <li><a href="https://github.com/GuiArmanLi/PilulasDeConhecimento/blob/main/git/Contribute.md">Como contribuir com projetos</a></li>
         </ol>
     </li>
+    <li>Armazenamento de dados
+    <ol>
+        <li>Variáveis
+        <li>Tipos de dados
+        <li>Conversão de tipos
+    </ol>
+    <li>Entrada, processamento e saída de dados
+    <li>Comentários
+    <li>Operadores
+    <ol>
+        <li>Aritméticos
+        <li>Lógicos 
+        <li>Comparação
+        <li>Atribuição
+        </ol>
     <li> Condicionais
         <ol>
             <li><a href="#">If | else if | else</a></li>
