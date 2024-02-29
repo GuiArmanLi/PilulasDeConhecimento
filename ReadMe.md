@@ -42,7 +42,7 @@
     </li>
 </ol>
 <h2>Modulo 2</h2>
-<h3>Frontend<h3>
+<h3>Frontend</h3>
 <ol>
     <li>Internet
     <ol>
