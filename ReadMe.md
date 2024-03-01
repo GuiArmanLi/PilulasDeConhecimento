@@ -1,7 +1,7 @@
 <h1>Pilulas de Conhecimento</h1>
 <p>Este repositório visa o resumo do conteúdo do curso <a href="https://www.vestibulandosdacidadania.org/programando-seu-futuro/" target="_blank">Programando Seu Futuro</a>, soluções referentes às dúvidas de alunos e aprendizagem em coletividade.</p>
 
-<h2>Programando seu Futuro</h2>
+<h2>Modulo 1</h2>
 <ol>
     <li> Terminal
         <ol>
@@ -19,10 +19,49 @@
             <li><a href="https://github.com/GuiArmanLi/PilulasDeConhecimento/blob/main/git/Contribute.md">Como contribuir com projetos</a></li>
         </ol>
     </li>
+    <li>Armazenamento de dados
+    <ol>
+        <li>Variáveis
+        <li>Tipos de dados
+        <li>Conversão de tipos
+    </ol>
+    <li>Entrada, processamento e saída de dados
+    <li>Comentários
+    <li>Operadores
+    <ol>
+        <li>Aritméticos
+        <li>Lógicos 
+        <li>Comparação
+        <li>Atribuição
+        </ol>
     <li> Condicionais
         <ol>
             <li><a href="#">If | else if | else</a></li>
             <li><a href="#">witch</a></li>
         </ol>
     </li>
+</ol>
+<h2>Modulo 2</h2>
+<h3>Frontend</h3>
+<ol>
+    <li>Internet
+    <ol>
+        <li><a>O que é a internet</a>
+    </ol>
+    <li>MarkDown
+    <ol>
+        <li>O que é MarkDown
+    </ol>
+    <li>HTML
+    <ol>
+        <li>O que é HTML
+    </ol>
+    <li>CSS
+    <ol>
+        <li>O que é CSS
+    </ol>
+    <li>Javascript
+    <ol>
+        <li>O que é Javascript
+    </ol>
 </ol>

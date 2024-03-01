@@ -7,9 +7,9 @@
         </div>
         <div>
             <ul>
-                <li>Git é um sistema de controle de versão local.
-                <li>Git ajuda você a acompanhar as alterações no código.
-                <li>Git é usado para colaborar no código.
+                <li>Git é um aplicativo que controla versões de pastas e arquivos localmente.
+                <li>Git te auxilia a acompanhar as alterações no código.
+                <li>Git é usado para permitir a colaboração de desenvolvedores em um repositório.
             </ul>
         </div>
     </div>
@@ -25,7 +25,7 @@
             <ul>
                 <li>Plataforma que permite controle de versão remoto.
                 <li>Plataforma que permite gerenciamento de projetos.
-                <li>Plataforma que permite hospedagem de código e código.
+                <li>Plataforma que permite hospedagem de site e código.
             </ul>
         </div>
     </div>
