@@ -1,6 +1,6 @@
 <div>
     <h2 style="text-align:center;">Comandos Básicos</h2>
-    <p>Para visualizar os comandos básicos e mais usados do Git, basta digitar <code>git</code> em seu git bash.</p>
+    <p>Para visualizar os comandos básicos e mais usados do Git basta digitar <code>git</code> ou <code>git {comando} --help</code> em seu git bash.</p>
     <p>Obs.: existem outros comandos do git, mas na maioria dos casos os comandos abaixo irao sanar suas necessidades.</p>
     <div>
         <h3>Comandos mais utilizado</h3>
@@ -15,7 +15,7 @@
             <li><code>restore</code> - Restaurar arquivos da árvore de trabalho
             <li><code>rm</code> -  Remove arquivos da árvore de trabalho e do Índice/Área de Teste
         <br>
-            <h4>Examinar história e o status</h4>
+            <h4>Examinar histórico e o status</h4>
             <li><code>status</code> - Mostrar o status do trabalho dentro do Git
             <li><code>log</code> - Mostrar histórico de commit
         <br>
