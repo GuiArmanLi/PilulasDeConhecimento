@@ -1,5 +1,4 @@
-
-    <div>
+<div>
         <h2  style="text-align:center;">Versionamente / Armazenamento de commits</h2>
         <p>Após realizar seus commits/checkpoints, o Git guarda-os em um histórico representado abaixo:</p>
         <img src="assets\img/HistoricoDoGit.png"/>
