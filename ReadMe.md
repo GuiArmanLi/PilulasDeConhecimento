@@ -65,3 +65,11 @@
         <li>O que é Javascript
     </ol>
 </ol>
+
+<h2>Complementos</h2>
+<h3>Livros</h3>
+<ul>
+    <li><a href="https://github.com/jnguyen095/clean-code/blob/master/Clean.Code.A.Handbook.of.Agile.Software.Craftsmanship.pdf" target="_blank">Clean Code</a>
+    <li><a href = "https://edu.anarcho-copy.org/Algorithm/grokking-algorithms-illustrated-programmers-curious.pdf" target = "_blank">Compreendendo Algoritmos</a>
+    <!--<li><a href="https://web.eecs.umich.edu/~weimerw/2018-481/readings/mythical-man-month.pdf" target="_blank">Mythical Man-Month</a>-->
+</ul>
