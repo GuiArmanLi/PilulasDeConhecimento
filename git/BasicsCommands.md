@@ -1,5 +1,5 @@
 <div>
-    <h2 style="text-align:center;">Comandos Básicos</h2>
+    <h1 style="text-align:center;">Comandos Básicos</h1>
     <p>Para visualizar os comandos básicos e mais usados do Git basta digitar <code>git</code> ou <code>git {comando} --help</code> em seu git bash.</p>
     <p>Obs.: existem outros comandos do git, mas na maioria dos casos os comandos abaixo irao sanar suas necessidades.</p>
     <div>
